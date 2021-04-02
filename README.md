@@ -1,7 +1,8 @@
 # Semi-Annotation-Tool-using-Pytorch
 Description: Labelling of image can be done easily with the help of pytorch pretrained model of the trained clases 
 ***
-https://user-images.githubusercontent.com/60811161/113394068-3d324380-93b5-11eb-87e1-aa0428e294fc.mp4
+
+![Demp](https://user-images.githubusercontent.com/60811161/113394068-3d324380-93b5-11eb-87e1-aa0428e294fc.mp4)
 
 
 ## Getting Started
