@@ -2,7 +2,9 @@
 Description: Labelling of image can be done easily with the help of pytorch pretrained model of the trained clases 
 ***
 
-![Demp](https://user-images.githubusercontent.com/60811161/113394068-3d324380-93b5-11eb-87e1-aa0428e294fc.mp4)
+![Demo](https://user-images.githubusercontent.com/60811161/113394498-fee95400-93b5-11eb-9d3c-abccd19707e0.mp4)
+
+
 
 
 ## Getting Started
