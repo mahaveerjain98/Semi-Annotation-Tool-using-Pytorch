@@ -1,6 +1,6 @@
 # Semi-Annotation-Tool-using-Pytorch
 Description: 
-This repo is actually forked from https://github.com/virajmavani/semi-auto-image-annotation-tool and implemented for the pytorch models.
+This repo is actually forked from [virajmavani](https://github.com/virajmavani/semi-auto-image-annotation-tool) and implemented for the pytorch models.
 Labelling of image can be done easily with the help of pytorch pretrained model of the trained clases 
 ***
 
